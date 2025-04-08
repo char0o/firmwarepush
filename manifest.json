@@ -8,7 +8,7 @@
       {
         "chipFamily": "ESP32",
         "parts": [
-          { "path": "https://char0o.github.io/firmwarepush/firmware.bin", "offset": 0 }
+          { "path": "https://github.com/BlueScreen-AeroSpace/DIY_Water_Propeled_Rocket_Fusee_a_Eau/releases/download/v20250404/esp32doit-devkit_20250404.bin", "offset": 0 }
         ]
       }
     ]
