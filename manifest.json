@@ -1,15 +1,18 @@
 {
-    "name": "ESPHome",
-    "version": "2021.11.0",
-    "home_assistant_domain": "esphome",
-    "funding_url": "https://esphome.io/guides/supporters.html",
-    "new_install_prompt_erase": false,
-    "builds": [
-      {
-        "chipFamily": "ESP32",
-        "parts": [
-          { "path": "https://github.com/BlueScreen-AeroSpace/DIY_Water_Propeled_Rocket_Fusee_a_Eau/releases/download/v20250404/esp32doit-devkit_20250404.bin", "offset": 0 }
-        ]
-      }
-    ]
-  }
+  "name": "ESPHome",
+  "version": "2021.11.0",
+  "home_assistant_domain": "esphome",
+  "funding_url": "https://esphome.io/guides/supporters.html",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://github.com/BlueScreen-AeroSpace/DIY_Water_Propeled_Rocket_Fusee_a_Eau/releases/download/v20250404/esp32doit-devkit_20250404.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
