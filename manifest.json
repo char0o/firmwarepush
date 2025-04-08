@@ -8,7 +8,7 @@
       {
         "chipFamily": "ESP32",
         "parts": [
-          { "path": "firmware.bin", "offset": 0 }
+          { "path": "https://char0o.github.io/firmwarepush/firmware.bin", "offset": 0 }
         ]
       }
     ]
